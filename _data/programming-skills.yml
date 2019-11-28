@@ -6,7 +6,7 @@
   percentage: 80
   color:
 
-- name: MySQL/ NoSql
+- name: MySQL/NoSql
   percentage: 70
   color: dark
 
@@ -31,8 +31,8 @@
   color: dark blue
 
 - name: node-express
-percentage: 70
-color: Light
+  percentage: 70
+  color: Light
 
 - name: Wt/ Qt
   percentage: 75
