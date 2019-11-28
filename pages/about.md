@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# **About {{Site.author.name}}**
+# **About {{site.author.name}}**
 
 **{{ site.author.name }}** is an Full stack Web Engineer and UI/UX enthusiast who loves programming, designing, speaking, traveling and meditating. He believe in innovation and creating new things that makes the difference.
 
