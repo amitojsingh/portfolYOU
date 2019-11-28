@@ -2,10 +2,42 @@
   percentage: 90
   color: danger
 
-- name: Go
+- name: JavaScript
   percentage: 80
   color:
 
-- name: Python
+- name: MySQL/ NoSql
   percentage: 70
   color: dark
+
+- name: Ruby On Rails
+  percentage: 80
+  color: grey
+
+- name: PHP
+  percentage: 80
+  color: green
+
+- name: C++
+  percentage: 70
+  color: yellow
+
+- name: Mongo DB
+  percentage: 70
+  color: Blue
+
+- name: Angular 8
+  percentage: 60
+  color: dark blue
+
+- name: node-express
+percentage: 70
+color: Light
+
+- name: Wt/ Qt
+  percentage: 75
+  color: Danger
+
+- name: C#/ ASP.Net
+  percentgae: 70
+  color: orange
