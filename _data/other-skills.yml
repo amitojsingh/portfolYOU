@@ -5,3 +5,23 @@
 - name: Adobe Illustrator
   percentage: 90
   color: success
+
+- name: Linux Administration
+  percentage: 80
+  color: info
+
+- name: Git
+  percentage: 90
+  color: Success
+
+- name: Latex
+  percentage: 70
+  color: info
+
+- name: Selenium 
+  percentage: 90
+  color: success
+
+- name: Appache
+  percentage: 80
+  color: success

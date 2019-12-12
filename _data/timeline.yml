@@ -1,13 +1,15 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Senior Full Stack Developer, Ishwerdas 
+  from: 2016
+  to: 2017
+  description: Developed using Test Driven Development in Ruby On Rails
+                Developing algorithms for Natural Language Processing
+                Made shell scripts to automate the installation.
+                Contribute to ongoing JavaScript and Ruby on Rails project
+                Mentor the ne   w trainees and teach them Ruby on Rails.
+                Design Mock up and convert PSD to HTML file.
+                Developed applications from scratch in ruby
 
-- title: Software Engineer, Google, UK
+- title: Software Engineer Intern, Google, UK
   from: 2018
   to: present
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
