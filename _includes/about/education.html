@@ -1,0 +1,18 @@
+
+<div class= "col-lg">
+    <h2>Education History</h2>
+{% for edu in site.data.education %}
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+    
+        <div class="card-body">
+            <h5 id="{{ edu.degree }}" class="card-title">
+                {{ edu.degree }}
+            </h5>
+            <p id="{{ edu.course }}-desc" class="card-text">{{ edu.course }}</p>
+            <p id="{{ project_id }}-tools" class="card-text">
+                <span class="badge badge-pill text-primary border border-primary">{{ edu.from }}--{{edu.to}}</span> 
+            </p>
+        </div>
+{% endfor %}
+    </div>
+    </div>
