@@ -32,12 +32,13 @@
 
   {% endfor %}-->
 
-  <!-- Local Projects -->
+  <!-- Local Projects
   {% for repository in site.github.public_repositories %}
   <a href='{{ repository.html_url }}'>
-    {{ repository.name }}
+    {{ repository}}
   </a>
   {% endfor %}
+-->
   {% for project in site.projects %}
 
     {% assign project_type  = "local" %}
