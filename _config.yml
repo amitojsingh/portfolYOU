@@ -57,6 +57,10 @@ defaults:
     values:
       layout: "page"
 
+plugins:
+  - jekyll-github-metadata
+
+respository: amitojsingh/mentoraid
 
 ### Exclude from processing ###
 exclude:
